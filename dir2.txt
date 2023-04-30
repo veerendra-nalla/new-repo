@@ -1,2 +1,3 @@
 hello this is first file in second directory
 s is second edi
+this is 3rd change int his file
