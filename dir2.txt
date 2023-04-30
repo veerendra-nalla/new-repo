@@ -1,2 +1,2 @@
 hello this is first file in second directory
-
+s is second edi
